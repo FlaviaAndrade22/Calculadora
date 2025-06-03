@@ -1,2 +1,2 @@
 # Calculadora
-Apenas desenvolvendo o raciocino logico e minhas tecnicas de programação
+Apenas desenvolvendo o raciocínio lógico e minhas técnicas de programação.
